@@ -17,4 +17,4 @@ Project Lists
 11) Style Net
 12) Plain Vanilla Gans
 13) Cyclic Gan (CGAN)
-14)Deep Convolutional Generative Adversarial Network (DCGAN)
+14) Deep Convolutional Generative Adversarial Network (DCGAN)
