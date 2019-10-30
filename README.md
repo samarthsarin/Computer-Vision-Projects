@@ -18,3 +18,4 @@ Project Lists
 12) Plain Vanilla Gans
 13) Cyclic Gan (CGAN)
 14) Deep Convolutional Generative Adversarial Network (DCGAN)
+15) WGAN-C
